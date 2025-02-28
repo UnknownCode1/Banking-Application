@@ -15,7 +15,7 @@ public class Bank{
         String userName;
         String password;
         int balance = 0;
-        int user=12;
+        int pss=134;
 
         System.out.println("Welcome to BobBank");
 
